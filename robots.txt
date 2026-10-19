@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Add Sitemap: https://YOUR-ACTUAL-DOMAIN/sitemap.xml after deployment.
+Sitemap: https://qelzavryn.vercel.app/sitemap.xml
