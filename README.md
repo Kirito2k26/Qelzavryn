@@ -1,6 +1,6 @@
 # QELZAVRYN — Ideas Without Boundaries
 
-An independent digital-project portfolio featuring **PuzzlePanch** and **PaisaLens**.
+An independent digital-project portfolio featuring **PuzzlePanch**, **PaisaLens**, and **Cricket Lite**.
 
 ## Run locally
 
